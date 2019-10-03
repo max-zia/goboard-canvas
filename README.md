@@ -8,4 +8,4 @@ The go board canvas is clickable, and white and black can lay down "stones" in t
 Just about everything else. Captures, passing, scoring, and so on.
 
 ## Plans for the future
-This was a valuable learning experience to familiarise myself with the kind of things you can do with JS and HTML5 canvas. My aim is to create a functioning go board using HTML5 SVG and JS, which I will allow two players to play moves on over the Internet with Django Channels.   
+This was a valuable learning experience to familiarise myself with the kind of things you can do with JS and HTML5 canvas. My aim is now to create a functioning go board using HTML5 SVG and JS, which I will allow two players to play moves on over the Internet with Django Channels.   
